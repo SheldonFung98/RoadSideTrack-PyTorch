@@ -50,6 +50,4 @@ python3 tools/train.py
 You can see the segmentation result via running the provided python script.
 
 ## Inference with TensorRT
-```
-https://github.com/SheldonFung98/RoadSideTrack
-```
+Please check [this repo](https://github.com/SheldonFung98/RoadSideTrack)
